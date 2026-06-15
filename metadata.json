@@ -1,0 +1,6 @@
+{
+  "name": "AI Pulse",
+  "description": "Track the latest breakthroughs, models, research papers, startups, and AI innovations in real time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
